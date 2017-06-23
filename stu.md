@@ -25,7 +25,7 @@
 | 姓名 | cno | int（11) | 必填 | 外键 |
 | 分数 | score | char(20) | 必填 | 无 |
 ### 主键为（sno，cno）
-##CGI接口
+## 相关代码
 ```sql
 create table student(
 id int not null primary key,
